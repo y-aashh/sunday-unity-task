@@ -27,5 +27,5 @@ Here are the complaints of the imaginary client below:
 4. Documentation outlining the changes made, troubleshooting steps taken, and any additional improvements implemented.
 
 
-## Need to download and import the FirebaseAnalytics.unitypackage into Assets for code to work, could not upload large file to github
+
 

@@ -13,7 +13,7 @@
 /dataSources.local.xml
 
 # Builds
-*.apk
+# *.apk  removed as i needed to submit the .apk as a part of deliverables
 *.unitypackage
 
 /[Ll]ibrary/
