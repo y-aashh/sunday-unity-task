@@ -25,3 +25,7 @@ Here are the complaints of the imaginary client below:
 2. A functional APK build for Android devices or an iOS build suitable for testing.
 3. The project code hosted on a private/public repository on GitHub or GitLab, with the corresponding person invited for review or a public link of repo.
 4. Documentation outlining the changes made, troubleshooting steps taken, and any additional improvements implemented.
+
+
+## Need to download and import the FirebaseAnalytics.unitypackage into Assets for code to work, could not upload large file to github
+
