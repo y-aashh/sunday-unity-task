@@ -62,7 +62,7 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.apk
+# *.apk ignored as it is deliverable
 *.aab
 *.unitypackage
 *.app
