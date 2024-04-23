@@ -12,7 +12,7 @@
 ## PROBLEM
 2) Performance Issues: Despite the game having minimal objects and scripts, performance issues persist on mobile devices.
 ## DEBUGGING STEPS
-1) Not completely sure as it worked fine on test device OnePlus 5 [android version]
+1) Not completely sure as it worked fine on test device OnePlus A5000 [Android Version 9.0]
 2) As we have a simple scene reducing the Pixel Light Count to 1 should help with performance.
 
 ## PROBLEM
